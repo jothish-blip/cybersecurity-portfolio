@@ -19,8 +19,8 @@ The first portfolio activity introduces my professional background, career goals
 | No. | Activity | Status |
 |:---:|----------------------------------------------|:-----------:|
 | 01 | Professional Cybersecurity Statement | Completed |
-| 02 | Conduct a Security Audit | In Progress |
-| 03 | Network Security Event Analysis | Planned |
+| 02 | Conduct a Security Audit | Completed |
+| 03 | Network Security Event Analysis | In progress |
 | 04 | Linux File Permissions | Planned |
 | 05 | SQL Filtering Queries | Planned |
 | 06 | Assets, Threats & Vulnerabilities | Planned |
