@@ -1,4 +1,4 @@
-# 02 – Conduct an Audit (Controls & Compliance Checklist)
+# Conduct an Audit (Controls & Compliance Checklist)
 
 ## Overview
 
@@ -103,20 +103,20 @@ Botium Toys currently has inadequate asset management and several missing securi
 
 | Control | Implemented? | Notes |
 |----------|--------------|-------|
-| Least Privilege | ❌ No | Employees have unnecessary access to internal and customer data. |
-| Disaster Recovery Plans | ❌ No | No disaster recovery or business continuity plan exists. |
-| Password Policies | ❌ No | Password policy exists but does not meet modern security standards. |
-| Separation of Duties | ❌ No | Duties and access permissions are not separated. |
-| Firewall | ✔️ Yes | Firewall is configured with appropriate security rules. |
-| Intrusion Detection System (IDS) | ❌ No | No IDS has been deployed. |
-| Backups | ❌ No | Critical business data is not backed up. |
+| **Least Privilege** | ❌ No | Employees have unnecessary access to internal and customer data. |
+| **Disaster Recovery Plans** | ❌ No | No disaster recovery or business continuity plan exists. |
+| **Password Policies** | ❌ No | Password policy exists but does not meet modern security standards. |
+| **Separation of Duties** | ❌ No | Duties and access permissions are not separated. |
+| **Firewall** | ✔️ Yes | Firewall is configured with appropriate security rules. |
+| **Intrusion Detection System (IDS)** | ❌ No | No IDS has been deployed. |
+| **Backups** | ❌ No | Critical business data is not backed up. |
 | Antivirus Software | ✔️ Yes | Antivirus software is installed and monitored regularly. |
-| Manual Monitoring (Legacy Systems) | ✔️ Yes | Legacy systems are monitored manually, but without a regular schedule. |
-| Encryption | ❌ No | Customer payment information is not encrypted. |
-| Password Management System | ❌ No | No centralized password management solution exists. |
-| Locks (Office, Storefront, Warehouse) | ✔️ Yes | Physical locations are protected with secure locks. |
-| CCTV Surveillance | ✔️ Yes | CCTV surveillance is installed throughout the facility. |
-| Fire Detection / Prevention | ✔️ Yes | Fire alarms and prevention systems are operational. |
+| **Manual Monitoring (Legacy Systems)** | ✔️ Yes | Legacy systems are monitored manually, but without a regular schedule. |
+| **Encryption** | ❌ No | Customer payment information is not encrypted. |
+| **Password Management System** | ❌ No | No centralized password management solution exists. |
+| **Locks (Office, Storefront, Warehouse)** | ✔️ Yes | Physical locations are protected with secure locks. |
+| **CCTV Surveillance** | ❌ N | CCTV surveillance is installed throughout the facility. |
+| **Fire Detection / Prevention** | ✔️ Yes | Fire alarms and prevention systems are operational. |
 
 ---
 
@@ -138,9 +138,9 @@ Botium Toys currently has inadequate asset management and several missing securi
 | Best Practice | Implemented? | Notes |
 |---------------|--------------|-------|
 | EU customer data is kept private and secure | ❌ No | Missing access controls and encryption increase privacy risks. |
-| Breach notification within 72 hours | ✔️ Yes | A notification plan has been established. |
+| Breach notification within 72 hours | ❌ No | A notification plan has been established. |
 | Data classification and inventory | ❌ No | Assets and data are not properly classified or inventoried. |
-| Privacy policies and procedures | ✔️ Yes | Privacy policies have been documented and enforced. |
+| Privacy policies and procedures | ❌ No | Privacy policies have been documented and enforced. |
 
 ---
 
@@ -150,7 +150,7 @@ Botium Toys currently has inadequate asset management and several missing securi
 |---------------|--------------|-------|
 | User access policies established | ❌ No | Access control policies have not been implemented. |
 | Sensitive data (PII/SPII) remains confidential | ❌ No | Missing encryption and unrestricted access expose sensitive information. |
-| Data integrity ensured | ✔️ Yes | The IT department has implemented integrity controls. |
+| Data integrity ensured | ❌ No | The IT department has implemented integrity controls. |
 | Data available to authorized users | ✔️ Yes | Systems are available and operational for authorized users. |
 
 ---
