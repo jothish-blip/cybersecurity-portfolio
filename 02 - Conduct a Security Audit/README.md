@@ -36,7 +36,7 @@ The audit covers the entire security program of Botium Toys, including:
 - Legacy systems
 - Warehouse assets
 - Storefront operations
-- Physical security controls 
+- Physical security controls
 
 ---
 
@@ -161,7 +161,7 @@ The audit shows that Botium Toys has implemented some basic technical and physic
 
 These gaps increase the organization's risk of data breaches, regulatory penalties, and business disruption.
 
-## 🔐 Administrative Controls
+## Administrative Controls
 
 - Implement Least Privilege access.
 - Introduce Role-Based Access Control (RBAC).
@@ -172,7 +172,7 @@ These gaps increase the organization's risk of data breaches, regulatory penalti
 
 ---
 
-## 🖥️ Technical Controls
+## Technical Controls
 
 - Deploy an Intrusion Detection System (IDS).
 - Encrypt sensitive customer and payment data.
@@ -182,7 +182,7 @@ These gaps increase the organization's risk of data breaches, regulatory penalti
 
 ---
 
-## 🏢 Physical Controls
+## Physical Controls
 
 - Continue maintaining office locks and CCTV surveillance.
 - Regularly inspect fire detection and prevention systems.
@@ -190,7 +190,7 @@ These gaps increase the organization's risk of data breaches, regulatory penalti
 
 ---
 
-## 📜 Compliance Improvements
+## Compliance Improvements
 
 - Implement PCI DSS requirements for payment security.
 - Improve GDPR compliance through better data classification and access controls.
