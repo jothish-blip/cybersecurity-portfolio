@@ -115,7 +115,7 @@ Botium Toys currently has inadequate asset management and several missing securi
 | **Encryption** | ❌ No | Customer payment information is not encrypted. |
 | **Password Management System** | ❌ No | No centralized password management solution exists. |
 | **Locks (Office, Storefront, Warehouse)** | ✔️ Yes | Physical locations are protected with secure locks. |
-| **CCTV Surveillance** | ❌ N | CCTV surveillance is installed throughout the facility. |
+| **CCTV Surveillance** | ❌ No | CCTV surveillance is installed throughout the facility. |
 | **Fire Detection / Prevention** | ✔️ Yes | Fire alarms and prevention systems are operational. |
 
 ---
