@@ -10,11 +10,11 @@ The portfolio begins with the Google Cybersecurity Professional Certificate and 
 
 The first portfolio activity introduces my professional background, career goals, technical interests, and commitment to continuous learning in cybersecurity.
 
-- [Professional Cybersecurity Statement](https://github.com/jothish-blip/cybersecurity-portfolio/blob/main/01%20-%20Proffesional%20Statement/README.md)
+- [01 - Professional Cybersecurity Statement](https://github.com/jothish-blip/cybersecurity-portfolio/blob/main/01%20-%20Proffesional%20Statement/README.md)
 
-- [Conduct a Security Audit](https://github.com/jothish-blip/cybersecurity-portfolio/blob/main/02%20-%20Conduct%20a%20Security%20Audit/README.md)
+- [02 - Conduct a Security Audit](https://github.com/jothish-blip/cybersecurity-portfolio/blob/main/02%20-%20Conduct%20a%20Security%20Audit/README.md)
 
-- [Network Security Event Analysis]()
+- [03 - Network Security Event Analysis](https://github.com/jothish-blip/cybersecurity-portfolio/blob/main/03%20-%20Network%20Security%20Event%20Analysis/README.md)
 
 ---
 
