@@ -124,7 +124,7 @@ ls -ld drafts
 
 </div>
 
-Rather than changing the entire permission set, I modified only the permission that no longer matched the security policy. Running `ls -ld drafts` confirmed that the group execute bit had been removed while `researcher2` retained the required access.
+Rather than changing the entire permission set, I modified only the permission that no longer matched the security policy. Running `ls -la drafts` confirmed that the group execute bit had been removed while `researcher2` retained the required access.
 
 ---
 
