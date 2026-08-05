@@ -12,6 +12,10 @@ The first portfolio activity introduces my professional background, career goals
 
 - [Professional Cybersecurity Statement](https://github.com/jothish-blip/cybersecurity-portfolio/blob/main/01%20-%20Proffesional%20Statement/README.md)
 
+- [Conduct a Security Audit](https://github.com/jothish-blip/cybersecurity-portfolio/blob/main/02%20-%20Conduct%20a%20Security%20Audit/README.md)
+
+- [Network Security Event Analysis]()
+
 ---
 
 ## Portfolio Activities
@@ -20,8 +24,8 @@ The first portfolio activity introduces my professional background, career goals
 |:---:|----------------------------------------------|:-----------:|
 | 01 | Professional Cybersecurity Statement | Completed |
 | 02 | Conduct a Security Audit | Completed |
-| 03 | Network Security Event Analysis | In progress |
-| 04 | Linux File Permissions | Planned |
+| 03 | Network Security Event Analysis | Completed |
+| 04 | Linux File Permissions | In Progress |
 | 05 | SQL Filtering Queries | Planned |
 | 06 | Assets, Threats & Vulnerabilities | Planned |
 | 07 | Detection & Response | Planned |
