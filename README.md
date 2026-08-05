@@ -16,6 +16,8 @@ The first portfolio activity introduces my professional background, career goals
 
 - [03 - Network Security Event Analysis](https://github.com/jothish-blip/cybersecurity-portfolio/blob/main/03%20-%20Network%20Security%20Event%20Analysis/README.md)
 
+- [04 - Linux File Permissions]()
+
 ---
 
 ## Portfolio Activities
