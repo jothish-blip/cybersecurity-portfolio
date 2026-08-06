@@ -51,7 +51,7 @@ Investigated login attempts and employee records using SQL filters to identify s
 ### 06 . Vulnerability Assessment 
 Conducted a qualitative vulnerability assessment of a publicly accessible database server using the NIST SP 800-30 Rev. 1 framework. Identified potential threats, evaluated security risks based on likelihood and impact, and proposed remediation strategies to strengthen the organization's security posture.
 
-- [Vulnerability Assessment]()
+- [Vulnerability Assessment](https://github.com/jothish-blip/cybersecurity-portfolio/blob/main/06%20-%20Vulnerability%20Assessment/README.md)
 
 ## Portfolio Progress
 
