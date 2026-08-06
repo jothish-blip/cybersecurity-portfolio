@@ -40,6 +40,14 @@ Reviewed Linux file and directory permissions, updated authorizations using Bash
 
 ---
 
+### 05 . SQL Filtering Queries 
+
+Investigated login attempts and employee records using SQL filters to identify suspicious activity and retrieve information needed for security updates.
+
+- [SQL Filtering Queries](https://github.com/jothish-blip/cybersecurity-portfolio/blob/main/05%20-%20SQL%20Filtering%20Queries/README.md)
+
+---
+
 ## Portfolio Progress
 
 | No. | Portfolio Activity | Status |
@@ -48,8 +56,8 @@ Reviewed Linux file and directory permissions, updated authorizations using Bash
 | 02 | Conduct a Security Audit | Completed |
 | 03 | Network Security Event Analysis | Completed |
 | 04 | Linux File Permission Management | Completed |
-| 05 | SQL Filtering Queries | In Progress |
-| 06 | Assets, Threats & Vulnerabilities | Planned |
+| 05 | SQL Filtering Queries | Completed |
+| 06 | Assets, Threats & Vulnerabilities | In Progress |
 | 07 | Detection & Response | Planned |
 | 08 | Automation with Python | Planned |
 

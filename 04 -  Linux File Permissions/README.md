@@ -1,8 +1,14 @@
 # Linux File Permission Management
 
-## Project Description
+## Project Overview
 
-As part of a security review for my organization's research team, I audited the existing file and directory permissions in a Linux environment using Bash. The goal was to verify that every user had the appropriate level of access, remove permissions that no longer complied with the organization's security policy, and ensure sensitive files remained protected. Throughout this project, I reviewed the current permissions, updated authorization where necessary, and verified each change before moving to the next task.
+This project focuses on reviewing and managing Linux file and directory permissions using Bash commands while applying the Principle of Least Privilege.
+
+## Scenario
+
+As part of a security review for my organization's research team, I audited the existing file and directory permissions in a Linux environment. The goal was to verify that every user had the appropriate level of access, remove permissions that no longer complied with the organization's security policy, and ensure sensitive files remained protected.
+
+Throughout this project, I reviewed the current permissions, updated authorization where necessary, and verified each change before moving to the next task.
 
 ---
 
