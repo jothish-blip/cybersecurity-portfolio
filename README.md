@@ -48,6 +48,11 @@ Investigated login attempts and employee records using SQL filters to identify s
 
 ---
 
+### 06 . Vulnerability Assessment 
+Conducted a qualitative vulnerability assessment of a publicly accessible database server using the NIST SP 800-30 Rev. 1 framework. Identified potential threats, evaluated security risks based on likelihood and impact, and proposed remediation strategies to strengthen the organization's security posture.
+
+- [Vulnerability Assessment]()
+
 ## Portfolio Progress
 
 | No. | Portfolio Activity | Status |
@@ -57,8 +62,8 @@ Investigated login attempts and employee records using SQL filters to identify s
 | 03 | Network Security Event Analysis | Completed |
 | 04 | Linux File Permission Management | Completed |
 | 05 | SQL Filtering Queries | Completed |
-| 06 | Assets, Threats & Vulnerabilities | In Progress |
-| 07 | Detection & Response | Planned |
+| 06 | Vulnerability Assessment | Completed |
+| 07 | Detection & Response | In Progress |
 | 08 | Automation with Python | Planned |
 
 ---
@@ -72,7 +77,7 @@ Investigated login attempts and employee records using SQL filters to identify s
 | Network Security Event Analysis | TCP/IP, Network Communication, Network Architecture, Security Hardening |
 | Linux File Permission Management | Linux, Bash, Command-Line Interface (CLI), File Permissions, Access Control |
 | SQL Filtering Queries | SQL, Database Querying, Data Filtering |
-| Assets, Threats & Vulnerabilities | Authentication, Asset Classification, Threat Modeling, Vulnerability Assessment |
+| Vulnerability Assessment | Authentication, Asset Classification, Threat Modeling, Vulnerability Assessment |
 | Detection & Response | Incident Response, Incident Documentation |
 | Automation with Python | Python Programming, Automation, Scripting |
 
