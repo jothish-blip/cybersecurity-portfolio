@@ -22,7 +22,7 @@ Documented the initial response to a ransomware incident by recording the incide
 
 Analyzed captured network traffic using Wireshark to identify protocols, examine packet details, and investigate network communications.
 
-- [Wireshark Packet Analysis](./07.2%20-%20Analyze%20a%20Packet%20with%20Wireshark/README.md)
+- [Wireshark Packet Analysis](https://github.com/jothish-blip/cybersecurity-portfolio/blob/main/07%20-%20Detection%20%26%20Response/07.2%20-%20Wireshark%20Packet%20Analysis/README.md)
 
 ---
 
@@ -71,8 +71,8 @@ Completed a cumulative incident handler's journal by documenting multiple securi
 | No. | Activity | Status |
 |:---:|--------------------------------------|:---------:|
 | 07.1 | Incident Handler's Journal | Completed |
-| 07.2 | Wireshark Packet Analysis | Planned |
-| 07.3 | TCPDump Packet Capture | Planned |
+| 07.2 | Wireshark Packet Analysis | Completed |
+| 07.3 | TCPDump Packet Capture | In progress |
 | 07.4 | Suspicious File Investigation | Planned |
 | 07.5 | Incident Response Playbook | Planned |
 | 07.6 | Suricata Alert Analysis | Planned |
