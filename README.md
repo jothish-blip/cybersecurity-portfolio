@@ -40,7 +40,7 @@ Reviewed Linux file and directory permissions, updated authorizations using Bash
 
 ---
 
-### 05 . SQL Filtering Queries 
+### 05 · SQL Filtering Queries
 
 Investigated login attempts and employee records using SQL filters to identify suspicious activity and retrieve information needed for security updates.
 
@@ -48,15 +48,26 @@ Investigated login attempts and employee records using SQL filters to identify s
 
 ---
 
-### 06 . Vulnerability Assessment 
+### 06 · Vulnerability Assessment
+
 Conducted a qualitative vulnerability assessment of a publicly accessible database server using the NIST SP 800-30 Rev. 1 framework. Identified potential threats, evaluated security risks based on likelihood and impact, and proposed remediation strategies to strengthen the organization's security posture.
 
 - [Vulnerability Assessment](https://github.com/jothish-blip/cybersecurity-portfolio/blob/main/06%20-%20Vulnerability%20Assessment/README.md)
 
+---
+
+### 07 · Detection & Response
+
+Documents hands-on incident detection and response activities, including incident documentation, network traffic analysis, packet capture, malware investigation, IDS alert analysis, and incident response procedures.
+
+- [Detection & Response](https://github.com/jothish-blip/cybersecurity-portfolio/blob/main/07%20-%20Detection%20%26%20Response/README.md)
+
+---
+
 ## Portfolio Progress
 
 | No. | Portfolio Activity | Status |
-|:---:|----------------------------------------------|:-----------:|
+|:---:|--------------------------------------|:-----------:|
 | 01 | Professional Cybersecurity Statement | Completed |
 | 02 | Conduct a Security Audit | Completed |
 | 03 | Network Security Event Analysis | Completed |
@@ -71,14 +82,14 @@ Conducted a qualitative vulnerability assessment of a publicly accessible databa
 ## Skills Demonstrated
 
 | Portfolio Activity | Skills & Knowledge |
-|-----------------------------|------------------------------------------------------------|
+|--------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
 | Professional Cybersecurity Statement | Professional Communication, Technical Writing |
 | Conduct a Security Audit | Information Security, Security Auditing, NIST Cybersecurity Framework (CSF), NIST Risk Management Framework (RMF), CIA Triad |
 | Network Security Event Analysis | TCP/IP, Network Communication, Network Architecture, Security Hardening |
 | Linux File Permission Management | Linux, Bash, Command-Line Interface (CLI), File Permissions, Access Control |
 | SQL Filtering Queries | SQL, Database Querying, Data Filtering |
-| Vulnerability Assessment | Authentication, Asset Classification, Threat Modeling, Vulnerability Assessment |
-| Detection & Response | Incident Response, Incident Documentation |
+| Vulnerability Assessment | Authentication, Asset Classification, Threat Modeling, Vulnerability Assessment, Risk Assessment |
+| Detection & Response | Incident Response, Incident Documentation, Packet Analysis, Wireshark, TCPDump, Malware Investigation, IDS Analysis, Suricata |
 | Automation with Python | Python Programming, Automation, Scripting |
 
 ---
