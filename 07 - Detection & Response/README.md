@@ -30,7 +30,7 @@ Analyzed captured network traffic using Wireshark to identify protocols, examine
 
 Captured and analyzed network packets using TCPDump to monitor network activity through the Linux command-line interface.
 
-- [TCPDump Packet Capture](./07.3%20-%20Capture%20a%20Packet%20with%20TCPDump/README.md)
+- [TCPDump Packet Capture](https://github.com/jothish-blip/cybersecurity-portfolio/blob/main/07%20-%20Detection%20%26%20Response/README.md)
 
 ---
 
@@ -72,8 +72,8 @@ Completed a cumulative incident handler's journal by documenting multiple securi
 |:---:|--------------------------------------|:---------:|
 | 07.1 | Incident Handler's Journal | Completed |
 | 07.2 | Wireshark Packet Analysis | Completed |
-| 07.3 | TCPDump Packet Capture | In progress |
-| 07.4 | Suspicious File Investigation | Planned |
+| 07.3 | TCPDump Packet Capture | Completed |
+| 07.4 | Suspicious File Investigation | In Progrees |
 | 07.5 | Incident Response Playbook | Planned |
 | 07.6 | Suricata Alert Analysis | Planned |
 | 07.7 | Final Incident Handler's Journal | Planned |
