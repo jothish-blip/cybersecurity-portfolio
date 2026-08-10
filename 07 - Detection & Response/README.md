@@ -38,7 +38,7 @@ Captured and analyzed network packets using TCPDump to monitor network activity 
 
 Investigated a suspicious file using malware analysis techniques and online threat intelligence resources to determine whether the file was malicious.
 
-- [Suspicious File Investigation](./07.4%20-%20Investigate%20a%20Suspicious%20File/README.md)
+- [Suspicious File Investigation](https://github.com/jothish-blip/cybersecurity-portfolio/blob/main/07%20-%20Detection%20%26%20Response/07.4%20-%20Suspicious%20File%20Investigation/README.md)
 
 ---
 
@@ -46,7 +46,7 @@ Investigated a suspicious file using malware analysis techniques and online thre
 
 Applied an incident response playbook to document response procedures, containment actions, and recovery activities for a security incident.
 
-- [Incident Response Playbook](https://github.com/jothish-blip/cybersecurity-portfolio/blob/main/07%20-%20Detection%20%26%20Response/07.4%20-%20Suspicious%20File%20Investigation/README.md)
+- [Incident Response Playbook](https://github.com/jothish-blip/cybersecurity-portfolio/blob/main/07%20-%20Detection%20%26%20Response/07.5%20-%20Incident%20Response%20Playbook/README.md)
 
 ---
 
@@ -74,6 +74,6 @@ Completed a cumulative incident handler's journal by documenting multiple securi
 | 07.2 | Wireshark Packet Analysis | Completed |
 | 07.3 | TCPDump Packet Capture | Completed |
 | 07.4 | Suspicious File Investigation | Completed |
-| 07.5 | Incident Response Playbook | In Progess |
-| 07.6 | Suricata Alert Analysis | Planned |
+| 07.5 | Playbook to respond to a phishing incident | Completed |
+| 07.6 | Suricata Alert Analysis | In Progrees |
 | 07.7 | Final Incident Handler's Journal | In Progress |

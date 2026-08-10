@@ -77,3 +77,13 @@ This activity reinforced the importance of structured incident documentation dur
 
 ---
 
+# Journal Entry #5 — Phishing Alert Investigation
+
+| **Date:**<br>Record the date of the journal entry. | **Entry:** 005<br>**Date:** 10 August 2026 |
+|---|---|
+| **Description** | I am a security analyst working at a financial services company. I received an alert about a suspicious file being downloaded on an employee's computer. The file hash was already verified as malicious and reported by several vendors on VirusTotal. As part of the organization's procedure, I need to follow the phishing playbook to conduct further investigation. |
+| **Tool(s) Used** | **VirusTotal** — Used to verify the malicious file hash and investigate additional information about the file.<br><br>**Phishing Playbook** — Used as a guide for the step-by-step investigation and response process. |
+| **The 5 W's** | **Who caused the incident:**<br>Unknown malicious actor.<br><br>**What happened:**<br>An employee received a phishing email containing a password-protected malicious attachment named `bfsvc.exe`. The password was provided in the email, allowing the employee to open the attachment and download the malicious file onto the computer.<br><br>**When did the incident occur:**<br>The employee received the phishing email on Wednesday, July 20, 2022, at approximately 09:30:14 AM.<br><br>**Where did the incident happen:**<br>On an employee's workstation at a financial services company.<br><br>**Why did the incident happen:**<br>An unknown malicious actor sent a phishing email containing a password-protected malicious attachment. The employee opened the attachment without verifying the email, which allowed the malicious file to be downloaded onto the computer. |
+| **Additional Notes** | 1. Employees aren't aware of the phishing emails.<br><br>2. I found that the email is malicious and reported by several vendors.<br><br>3. The email severity is Medium, and the incident has been escalated and sent for further investigation. |
+
+--- 
