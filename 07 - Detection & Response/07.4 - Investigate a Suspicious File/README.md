@@ -81,7 +81,9 @@ These indicators provide additional context for investigating the suspicious fil
 
 The Pyramid of Pain provides a way to understand different types of indicators associated with malicious activity. It ranges from technical indicators such as hashes and IP addresses to higher-level information about attacker behavior and Tactics, Techniques, and Procedures (TTPs).
 
-![Pyramid of Pain](images/01-pyramid-of-pain.png)
+<div align="center">
+<img src="images/01-pyramid-of-pain.png" width="100%">
+</div>
 
 In this investigation, the identified hash values, domains, and IP addresses represent technical indicators that can help security analysts detect or investigate related activity.
 
