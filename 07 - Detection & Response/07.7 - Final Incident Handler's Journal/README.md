@@ -1,26 +1,9 @@
-# Healthcare Clinic Ransomware Incident – Incident Handler's Journal
+# Incident Handler's Journals
 
-## Overview
+## Journal Entry #1 — Healthcare Clinic Ransomware Incident
+This entry documents the initial ransomware incident scenario.
 
-This project documents the initial response to a ransomware incident affecting a small U.S. healthcare clinic. The activity demonstrates how an Incident Handler's Journal can be used to record key incident details, organize observations, and document findings during the early stages of an investigation.
-
-The incident originated from a phishing campaign that delivered a malicious attachment to employees. Once executed, the malware deployed ransomware, encrypted critical patient records, and disrupted the clinic's daily operations. This journal entry captures the incident details using the Five W's methodology and records additional observations that may support future investigation and response activities.
-
----
-
-## Scenario
-
-A small U.S. healthcare clinic experienced a ransomware attack after several employees interacted with phishing emails containing malicious attachments. The ransomware encrypted critical files, displayed ransom notes on employee workstations, and prevented staff from accessing patient records, forcing the organization to suspend normal business operations.
-
----
-
-## Objective
-
-The objective of this activity is to document the incident using an Incident Handler's Journal. Accurate documentation helps establish a record of what occurred, supports communication throughout the incident response process, and preserves information for future investigation and reporting.
-
----
-
-## Incident Handler's Journal
+**Related Activity:** [07.1 — Incident Handler's Journal](https://github.com/jothish-blip/cybersecurity-portfolio/blob/main/07%20-%20Detection%20%26%20Response/07.1%20-%20Incident%20Handler's%20Journal/README.md)
 
 | **Date:**<br>Record the date of the journal entry. | **Entry:** 001<br>**Date:** 07 August 2026 |
 |---|---|
@@ -29,23 +12,10 @@ The objective of this activity is to document the incident using an Incident Han
 | **The 5 W's** | **Who caused the incident:**<br>An organized group of unethical hackers, who are known for targeting organizations in the healthcare and transportation industries.<br><br>**What happened:**<br>Employees were unable to access their files and were displayed a ransom note demanding money for the decryption key.<br><br>**When did it happen:**<br>The security incident happened on Tuesday morning at approximately 9:00 AM.<br><br>**Where did it occur:**<br>A small U.S. health care clinic specialized in delivering primary-care services.<br><br>**Why did it occur:**<br>Several employees in the organization received phishing emails, and one of them downloaded the attachment. Ransomware was deployed on the computers and spread across the company. |
 | **Additional Notes** | - Employees were unable to identify whether the email was suspicious or a legitimate business email.<br>- The organization needs to conduct phishing awareness training.<br>- The organization should maintain regular backups to help recover encrypted files during a ransomware attack.<br>- The organization should regularly update and patch its systems to reduce security vulnerabilities. |
 
----
-
-## Key Learning Outcomes
-
-This activity provided practical experience documenting a cybersecurity incident using an Incident Handler's Journal. The journal captured the incident description, the Five W's, and additional observations that could support future investigation and response activities.
-
-The scenario also demonstrated how phishing can provide an initial access path for malware and ransomware, resulting in the encryption of critical files and disruption to business operations.
-
----
-
-## Conclusion
-
-This activity reinforced the importance of structured incident documentation during cybersecurity investigations. Recording what happened, who was involved, when and where the incident occurred, why it occurred, and additional observations creates a useful record that can support investigation, communication, and future response activities.
-
 --- 
 
-# Journal Entry #2 — Wireshark Packet Analysis
+## Journal Entry #2 — Wireshark Packet Analysis
+**Related Activity:** [07.2 — Wireshark Packet Analysis](https://github.com/jothish-blip/cybersecurity-portfolio/blob/main/07%20-%20Detection%20%26%20Response/07.2%20-%20Wireshark%20Packet%20Analysis/README.md)
 
 | **Date:**<br>Record the date of the journal entry. | **Entry:** 002<br>**Date:** 07 August 2026 |
 |---|---|
@@ -55,7 +25,8 @@ This activity reinforced the importance of structured incident documentation dur
 | **Additional Notes** | - Wireshark provides a graphical interface for analyzing packet capture data.<br>- It provides detailed information about individual network packets.<br>- Display filters make it easier to isolate relevant network traffic.<br>- Packet details can be examined across multiple protocol layers.<br>- DNS, TCP, and HTTP traffic can be isolated and analyzed using appropriate filters.<br>- Learning to analyze packet captures provides a foundation for future network security investigations. |
 
 ---
-# Journal Entry #3 — TCPDump Packet Capture
+## Journal Entry #3 — TCPDump Packet Capture
+**Related Activity:** [07.3 — TCPDump Packet Capture](https://github.com/jothish-blip/cybersecurity-portfolio/blob/main/07%20-%20Detection%20%26%20Response/07.3%20-%20TCPDump%20Packet%20Capture/README.md)
 
 | **Date:**<br>Record the date of the journal entry. | **Entry:** 003<br>**Date:** 08 August 2026 |
 |---|---|
@@ -66,7 +37,8 @@ This activity reinforced the importance of structured incident documentation dur
 
 ---
 
-# Journal Entry #4 — Suspicious File Investigation
+## Journal Entry #4 — Suspicious File Investigation
+**Related Activity:** [07.4 — Investigate a Suspicious File](https://github.com/jothish-blip/cybersecurity-portfolio/blob/main/07%20-%20Detection%20%26%20Response/07.4%20-%20Suspicious%20File%20Investigation/README.md)
 
 | **Date:**<br>Record the date of the journal entry. | **Entry:** 004<br>**Date:** 10 August 2026 |
 |---|---|
@@ -77,7 +49,8 @@ This activity reinforced the importance of structured incident documentation dur
 
 ---
 
-# Journal Entry #5 — Phishing Alert Investigation
+## Journal Entry #5 — Phishing Alert Investigation
+**Related Activity:** [07.5 — Playbook to respond to a phishing incident](https://github.com/jothish-blip/cybersecurity-portfolio/blob/main/07%20-%20Detection%20%26%20Response/07.5%20-%20Playbook%20to%20respond%20to%20a%20phishing%20incident/README.md)
 
 | **Date:**<br>Record the date of the journal entry. | **Entry:** 005<br>**Date:** 10 August 2026 |
 |---|---|
