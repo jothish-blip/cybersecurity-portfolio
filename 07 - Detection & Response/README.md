@@ -46,7 +46,7 @@ Investigated a suspicious file using malware analysis techniques and online thre
 
 Applied an incident response playbook to document response procedures, containment actions, and recovery activities for a security incident.
 
-- [Incident Response Playbook](https://github.com/jothish-blip/cybersecurity-portfolio/blob/main/07%20-%20Detection%20%26%20Response/07.5%20-%20Incident%20Response%20Playbook/README.md)
+- [Incident Response Playbook](https://github.com/jothish-blip/cybersecurity-portfolio/blob/main/07%20-%20Detection%20%26%20Response/07.5%20-%20Playbook%20to%20respond%20to%20a%20phishing%20incident/README.md)
 
 ---
 
