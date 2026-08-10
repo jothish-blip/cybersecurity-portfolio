@@ -61,6 +61,7 @@ I first created a SHA256 hash of the suspicious file using Linux.
 
 ```bash
 sha256sum <suspicious-file>
+```
 
 # Indicators of Compromise
 
