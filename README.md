@@ -64,6 +64,7 @@ Documents hands-on incident detection and response activities, including inciden
 
 ---
 
+
 ## Portfolio Progress
 
 | No. | Portfolio Activity | Status |
@@ -74,8 +75,8 @@ Documents hands-on incident detection and response activities, including inciden
 | 04 | Linux File Permission Management | Completed |
 | 05 | SQL Filtering Queries | Completed |
 | 06 | Vulnerability Assessment | Completed |
-| 07 | Detection & Response | In Progress |
-| 08 | Automation with Python | Planned |
+| 07 | Detection & Response | Completed |
+| 08 | Automation with Python | In Progress |
 
 ---
 

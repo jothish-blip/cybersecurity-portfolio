@@ -60,3 +60,17 @@ This entry documents the initial ransomware incident scenario.
 | **Additional Notes** | 1. Employees aren't aware of the phishing emails.<br><br>2. I found that the email is malicious and reported by several vendors.<br><br>3. The email severity is Medium, and the incident has been escalated and sent for further investigation. |
 
 --- 
+
+## Reflections / Notes
+
+### 1. Were there any specific activities that were challenging for you? Why or why not?
+
+The activities involving packet analysis and security tools were challenging because they required me to understand unfamiliar command-line tools and interpret technical network information. However, working through the commands, logs, and investigation steps helped me become more comfortable with tools such as Wireshark, TCPDump, VirusTotal, and Suricata.
+
+### 2. Has your understanding of incident detection and response changed since taking this course?
+
+Yes, my understanding of incident detection and response has changed significantly since taking this course. I learned that incident response involves structured investigation, evidence analysis, documentation, and appropriate escalation rather than simply identifying a security problem. I also learned how tools and playbooks support analysts throughout the response process.
+
+### 3. Was there a specific tool or concept that you enjoyed the most? Why?
+
+I enjoyed working with Wireshark the most because it allowed me to visually inspect network traffic and understand how individual packets communicate across a network. I also found Suricata interesting because it demonstrated how detection rules can identify specific network activity and generate alerts that can be investigated further.

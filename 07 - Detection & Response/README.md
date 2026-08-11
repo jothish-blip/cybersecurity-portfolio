@@ -75,5 +75,5 @@ Completed a cumulative incident handler's journal by documenting multiple securi
 | 07.3 | TCPDump Packet Capture | Completed |
 | 07.4 | Suspicious File Investigation | Completed |
 | 07.5 | Playbook to respond to a phishing incident | Completed |
-| 07.6 | Suricata Alert Analysis | In Progrees |
-| 07.7 | Final Incident Handler's Journal | In Progress |
+| 07.6 | Suricata Alert Analysis | Completed |
+| 07.7 | Final Incident Handler's Journal | Completed |
