@@ -64,6 +64,14 @@ Documents hands-on incident detection and response activities, including inciden
 
 ---
 
+### 08 · Algorithm for File Updates in Python
+
+Developed a Python automation script to update an IP allow list by reading data from a file, comparing it against a removal list, removing unauthorized IP addresses, and writing the updated list back to the file. This project demonstrates file handling, list manipulation, loops, conditional logic, and automation using Python.
+
+- [Algorithm for File Updates in Python](https://github.com/jothish-blip/cybersecurity-portfolio/blob/main/08%20-%20Algorithm%20for%20File%20Updates%20in%20Python/README.md)
+
+---
+
 
 ## Portfolio Progress
 
@@ -76,7 +84,7 @@ Documents hands-on incident detection and response activities, including inciden
 | 05 | SQL Filtering Queries | Completed |
 | 06 | Vulnerability Assessment | Completed |
 | 07 | Detection & Response | Completed |
-| 08 | Automation with Python | In Progress |
+| 08 | Algorithm for File Updates in Python | Completed |
 
 ---
 
