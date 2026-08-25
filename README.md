@@ -105,6 +105,10 @@ Developed a Python automation script to update an IP allow list by reading data 
 
 ## About
 
-This repository represents my ongoing cybersecurity learning journey through practical portfolio activities and hands-on labs. Each project focuses on applying security concepts to realistic scenarios while strengthening my technical knowledge and problem-solving skills.
+This repository showcases my cybersecurity learning journey through hands-on projects, practical labs, and technical documentation. Each project is designed to apply security concepts to realistic scenarios while developing skills in security analysis, incident response, network security, and defensive operations.
 
-As I complete additional portfolio activities throughout the Google Cybersecurity Professional Certificate, this repository will continue to grow and reflect my progress.
+As I continue learning and building, this repository will evolve with new projects and documentation.
+
+For a complete overview of my work, including project documentation, certifications, and an interactive portfolio, visit:
+
+**Portfolio:** https://www.webjothishanalyst.site
